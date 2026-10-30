@@ -1,0 +1,8 @@
+{
+  "captured_at": "2026-10-30",
+  "browser": "Chrome headless",
+  "source": "real local trained-model API via Swagger UI",
+  "synthetic_prompt": true,
+  "weights": "artifacts/model.pt",
+  "screenshots_not_mockups": true
+}

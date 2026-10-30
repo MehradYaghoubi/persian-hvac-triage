@@ -1,0 +1,9 @@
+{
+  "python": "3.14.7",
+  "pytorch": "2.14.0+cpu",
+  "platform": "Windows",
+  "machine": "AMD64",
+  "device": "CPU",
+  "seed": 42,
+  "note": "Environment recorded during documentation capture; historical latency is a single local measurement."
+}
